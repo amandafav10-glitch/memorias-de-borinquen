@@ -4,6 +4,8 @@ App en español para que personas mayores de Puerto Rico guarden sus recuerdos c
 
 Spanish-language app that helps older adults in Puerto Rico record their memories with their voice and share them with their families. Built with MIT App Inventor.
 
+![Pantalla principal de Memorias de Borinquen](Portada_Memorias_de_Borinquen.JPEG)
+
 Qué hace
 
 - Cada día muestra una foto histórica de Puerto Rico y una pregunta para despertar el recuerdo (25 preguntas y 15 fotos).
